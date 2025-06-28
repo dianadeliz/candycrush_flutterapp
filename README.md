@@ -1,4 +1,4 @@
-# Candy Crush DT
+# Candy Crush
 
 A Flutter implementation of a Candy Crush-style match-3 puzzle game with smooth animations and modern UI.
 
@@ -157,3 +157,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Inspired by the classic Candy Crush Saga game
 - Built with Flutter for cross-platform compatibility
 - Uses Material Design principles for modern UI/UX
+
+<img width="524" alt="Screenshot 2025-06-28 at 4 50 08 PM" src="https://github.com/user-attachments/assets/8b1e0d2d-bd40-4b4f-9a67-fa8a86ba51db" />
+
