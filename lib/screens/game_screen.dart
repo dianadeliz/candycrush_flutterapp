@@ -189,7 +189,7 @@ class _GameScreenState extends State<GameScreen>
     return Scaffold(
       backgroundColor: Colors.blue[50],
       appBar: AppBar(
-        title: const Text('Candy Crush DT'),
+        title: const Text('Candy Crush'),
         backgroundColor: Colors.purple[400],
         foregroundColor: Colors.white,
         elevation: 0,
